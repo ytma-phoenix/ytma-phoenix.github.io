@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Portrait placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e4f0ed"/>
+      <stop offset="55%" stop-color="#eef2f7"/>
+      <stop offset="100%" stop-color="#f4e8df"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="300" cy="220" r="92" fill="#184f90" opacity="0.88"/>
+  <path d="M145 520c20-116 103-180 155-180s135 64 155 180" fill="#0b766f" opacity="0.85"/>
+  <text x="300" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="96" font-weight="700" fill="#ffffff">YM</text>
+</svg>
